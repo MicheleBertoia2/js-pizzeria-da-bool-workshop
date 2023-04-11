@@ -21,4 +21,6 @@ ingredients.forEach(ingredient => {
 return isVeg
 }
 
+
+
 export {checkVeg}
